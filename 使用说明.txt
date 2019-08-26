@@ -1,0 +1,10 @@
+视频播放器：
+1.具有播放器基本功能
+2.支持键鼠操控
+3.进度条调节
+4.声音控制
+5.支持多种播放格式*.asf *.avi *.divx *.dv *.flv *.gxf *.m1v *.m2v *.m2ts *.m4v *.mkv *.mov *.mp2 *.mp4 *.mpeg *.mpeg1 *.mpeg2 *.mpeg4 *.mpg *.mts *.mxf *.ogg *.ogm *.ps *.ts *.vob *.wmv *.a52 *.aac *.ac3 *.dts *.flac *.m4a *.m4p *.mka *.mod *.mp1 *.mp2 *.mp3 *.ogg. 
+6.支持字幕导入
+操作方法：
+1.鼠标：点击播放画面可暂停播放，双击全屏
+2.键盘：空格暂停播放，esc全屏原屏，方向键对应声音控制与进度条控制。
